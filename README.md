@@ -1,7 +1,7 @@
-Prerequisites
+*Prerequisites*
 
-Python 3.9.12
-langchain 0.1.16
+- Python 3.9.1
+- langchain 0.1.16
 
 ================ Abstract
 This paper was written as part of the Module Research Methods for Information Systems at the University of Applied Sciences and Arts Northwestern Switzerland.
